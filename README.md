@@ -2,3 +2,7 @@
 
 2. Nie pisałem tic-tac-toe, ponieważ już raz coś takiego robiłem i można to sprawdzić pod tym linkiem:
   - https://github.com/Given22/Tic-Tac-Toe
+  
+  
+Więcej moich projektów na mojej stronie: 
+https://damian-s-portfolio.web.app
